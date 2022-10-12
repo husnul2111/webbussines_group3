@@ -1,0 +1,24 @@
+table,
+th,
+td {
+    border:1px solid black;
+}
+
+th,td {
+    padding: 10px;
+}
+
+
+.hitam{
+    background-color: black;
+    color: white;
+}
+.hijau{
+    background-color:rgb(2, 151, 2) ;
+    color: white;
+}
+
+.merah{
+    background-color: red;
+    color:white;
+}
